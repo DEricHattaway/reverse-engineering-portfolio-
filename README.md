@@ -15,7 +15,7 @@ This repository documents my progress as I learn binary analysis, debugging, sof
 - Strings analysis  
 
 **Write-up:**  
-[Read the full report](./crackmes/notepad-launcher/notepad-launcher-report.md)
+[Read the full report](./crackmes/notepad-launcher/README.md)
 
 ---
 
