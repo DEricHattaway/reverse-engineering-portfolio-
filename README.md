@@ -1,6 +1,6 @@
 # Reverse Engineering Portfolio
 
-Welcome to my reverse engineering portfolio.  
+Welcome to D Eric Hattaway's reverse engineering portfolio.  
 This repository documents my progress as I learn binary analysis, debugging, software patching, and general RE techniques through practical exercises.
 
 ---
@@ -33,7 +33,7 @@ This repository documents my progress as I learn binary analysis, debugging, sof
 - IDA Free  
 - Strings (Sysinternals)  
 - Hex editors (HxD)  
-- VirtualBox VMs  
+- VirtualBox VMs/VMWare ESXi
 
 ---
 
